@@ -1,19 +1,18 @@
 <!-- Banner -->
 <h1 align="center">🌙 Hej! こんにちは！ I'm Aira</h1>
 <p align="center">
-Data Engineering student at Stockholms Tekniska Institut (STI), building data pipelines, analytical workflows, and cloud-ready solutions with a growth mindset and strong execution.
+Data Engineering student at Stockholms Tekniska Institut (STI), currently wokring on my skills to building data pipelines, analytical workflows, and cloud-ready solutions with a growth mindset and strong execution.
 </p>
 
 ---
 
 ## 🧭 About Me  
 - 🎓 Data Engineering student at Stockholms Tekniska Institut (STI)  
-- 💡 Passionate about data pipelines, automation, cloud analytics, and real-world data impact  
-- 🧠 Exploring Python, DuckDB SQL, data modeling, visualization, NoSQL, data warehouse lifecycle, big data, cloud-practical development, and AI Ops  
-- 🚀 Developing Python OOP foundations and pipeline-ready modules  
+- 💡 Likes to learn about data pipelines, automation, cloud analytics, and real-world data impact  
+- 🧠 Exploring Python, DuckDB SQL, data modeling, visualization, NoSQL, data warehouse lifecycle, big data, cloud-practical development, and AI Ops (part of curriculum)   
 - 📈 Targeting Data Engineering roles for my **LIA internship (Jan–May 2027)**  
 - 🌍 Building projects that bring **data skill transparency** to employers and students  
-- ✍️ Documenting everything with clean UX, reproducibility, and strong structure  
+- ✍️ Documenting everything with for my learning
 - 📫 Connect with me:  
   **[LinkedIn](https://www.linkedin.com/in/aira-franco0965)** | **[GitHub](https://github.com/Akina-Aoki)**
 
@@ -21,10 +20,10 @@ Data Engineering student at Stockholms Tekniska Institut (STI), building data pi
 
 ## 🛠 Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,sqlite,git,github,linux,docker,vscode,regex&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,duckdb,pandas,git,github,vscode,regex&theme=dark" />
 </p>
 
-**Working with:** Python | SQL | Pandas | DuckDB | Git | Data Modeling | ETL/ELT | NoSQL | Cloud Basics  
+**Working with:** Python | SQL | Pandas | DuckDB | Git | Data Modeling (coming soon) | ETL/ELT (coming soon) | NoSQL (coming soon) | Cloud Basics (coming soon) | Data Warehousing (coming soon) | Data Visualization (coming soon) | AI Ops (coming soon)
 
 ---
 
@@ -40,28 +39,7 @@ Data Engineering student at Stockholms Tekniska Institut (STI), building data pi
 
 ## 📊 GitHub Analytics (TokyoNight)
 
-![Aira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=airafranco&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=airafranco&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=airafranco&theme=tokyonight)
-
-![](https://komarev.com/ghpvc/?username=airafranco&style=flat-square&color=blueviolet)
-
----
-
-## 🐍 Contribution Snake  
-![snake gif](https://github.com/airafranco/airafranco/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🎛 GitHub Metrics Dashboard  
-<img src="https://raw.githubusercontent.com/airafranco/airafranco/main/github-metrics.svg" alt="Metrics">
-
----
-
-## 🧊 3D Contribution Graph (Tokyo Night)  
-<img src="https://raw.githubusercontent.com/airafranco/airafranco/output/profile-3d-contrib/profile-night-view.svg" width="100%"/>
+![Aira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akina-Aoki&show_icons=true&theme=tokyonight)
 
 ---
 
