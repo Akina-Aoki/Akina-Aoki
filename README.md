@@ -4,10 +4,11 @@
 Data Engineering student at Stockholms Tekniska Institut (STI), currently wokring on my skills to building data pipelines, analytical workflows, and cloud-ready solutions with a growth mindset and strong execution.
 </p>
 
+![snake gif](https://github.com/Akina-Aoki/Akina-Aoki/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
-## 🧭 About Me  
-- 🎓 Data Engineering student at Stockholms Tekniska Institut (STI)  
+## 🧭 About Me   
 - 💡 Likes to learn about data pipelines, automation, cloud analytics, and real-world data impact  
 - 🧠 Exploring Python, DuckDB SQL, data modeling, visualization, NoSQL, data warehouse lifecycle, big data, cloud-practical development, and AI Ops (part of curriculum)   
 - 📈 Targeting Data Engineering roles for my **LIA internship (Jan–May 2027)**  
@@ -20,7 +21,7 @@ Data Engineering student at Stockholms Tekniska Institut (STI), currently wokrin
 
 ## 🛠 Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,duckdb,pandas,git,github,vscode,regex&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,regex&theme=dark" />
 </p>
 
 **Working with:** Python | SQL | Pandas | DuckDB | Git | Data Modeling (coming soon) | ETL/ELT (coming soon) | NoSQL (coming soon) | Cloud Basics (coming soon) | Data Warehousing (coming soon) | Data Visualization (coming soon) | AI Ops (coming soon)
