@@ -66,8 +66,8 @@ me = Aira()
 ---
 ## 🎥 Favorite YouTube Videos of the Month
 
-[![Two ChatGPTs talking to each other](https://img.youtube.com/vi/OyEHnIC45Zk/0.jpg)](https://www.youtube.com/watch?v=OyEHnIC45Zk)
+[![Basque Cheescake](https://www.youtube.com/watch?v=yri-qsRkJwc)
 
-[![NASA Coding Requirements. APPLY NOW!](https://img.youtube.com/vi/JWKadu0ks20/0.jpg)](https://www.youtube.com/watch?v=JWKadu0ks20)
+[![My Hometown](https://www.youtube.com/watch?v=IwYv3QChA0k)
 
 
