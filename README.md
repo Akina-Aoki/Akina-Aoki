@@ -65,9 +65,9 @@ me = Aira()
 
 ---
 ## 🎥 Favorite YouTube Videos of the Month
+[![Basque Cheesecake](https://img.youtube.com/vi/yri-qsRkJwc/hqdefault.jpg)](https://www.youtube.com/watch?v=yri-qsRkJwc)
 
-[![Basque Cheescake](https://www.youtube.com/watch?v=yri-qsRkJwc)
+[![My Hometown](https://img.youtube.com/vi/IwYv3QChA0k/hqdefault.jpg)](https://www.youtube.com/watch?v=IwYv3QChA0k)
 
-[![My Hometown](https://www.youtube.com/watch?v=IwYv3QChA0k)
 
 
