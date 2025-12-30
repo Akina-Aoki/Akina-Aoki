@@ -19,8 +19,6 @@ me = Aira()
 
 ```
 
-</p>
-
 ![snake gif](https://github.com/Akina-Aoki/Akina-Aoki/blob/output/github-contribution-grid-snake.svg)
 
 ---
