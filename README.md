@@ -28,7 +28,6 @@ me = Aira()
 - Camping by the beach
 - Good roasted coffee
 - Cookig and sharing food
- <br>   
 - ✨ Always learning. Keep on going. 
 - 💡 Likes to learn about data pipelines, automation, cloud analytics, and real-world data impact  
 - 🧠 Exploring Python, DuckDB SQL, data modeling, visualization, NoSQL, data warehouse lifecycle, big data, cloud-practical development, and AI Ops (part of curriculum)   
@@ -61,14 +60,7 @@ me = Aira()
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
 
-## 🎥 Favorite YouTube Videos of the Month
-Favorite Cake; Basque Cheescake
-[![Basque Cheesecake](https://img.youtube.com/vi/yri-qsRkJwc/hqdefault.jpg)](https://www.youtube.com/watch?v=yri-qsRkJwc)
-
-2 hours from my hometown
-[![My Hometown](https://img.youtube.com/vi/IwYv3QChA0k/hqdefault.jpg)](https://www.youtube.com/watch?v=IwYv3QChA0k)
 
 
 
