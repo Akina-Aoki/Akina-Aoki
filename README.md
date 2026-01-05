@@ -7,7 +7,7 @@
 class Aira:
     def __init__(self):
         self.curiosity = float("inf")
-        self.stack = ["SQL", "Python", "ETL"]
+        self.stack = ["Git", "Python", "SQL", "RDBMS", "Data Modelling", "Data Visualizing", "Big Data", "Cloud-practical development", "NoSQL", "Data warehouse lifecycle", "AI Ops"]
         self.institution = "Stockholms Tekniska Institut"
 
     def iterate(self):
