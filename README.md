@@ -42,7 +42,7 @@ me = Aira()
 ## 🚀 Projects & Highlights
 - 🦆 [DuckDB SQL Relational Database and Evidence Dashboard using Sakila Database, DuckDB and Pandas](https://github.com/Akina-Aoki/sql_lab1_aira_franco.git)
 - 🧮 [Object Oriented Programming / Python](https://github.com/Akina-Aoki/aira_franco_lab2.git)
-- [Data Modelling for a school system: Relational Database 3NF](https://github.com/Akina-Aoki/data_modelling_lab_aira_franco.git)
+- [Data Modelling for a school system: Relational Database, 3NF, PostgreSQL, Docker](https://github.com/Akina-Aoki/data_modelling_lab_aira_franco.git)
 ---
 
 ### ✍️ Random Dev Quote
