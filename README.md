@@ -1,7 +1,13 @@
 <!-- Banner -->
 <h1 align="center">🌙 Hej! こんにちは！ I'm Aira</h1>
 
+## Keep on coding to feed my Python Pet
+
+![snake gif](https://github.com/Akina-Aoki/Akina-Aoki/blob/output/github-contribution-grid-snake.svg)
+
 <div align="left">
+
+## 🧭 About Me
 
 ```python
 class Aira:
@@ -19,10 +25,7 @@ me = Aira()
 
 ```
 
-![snake gif](https://github.com/Akina-Aoki/Akina-Aoki/blob/output/github-contribution-grid-snake.svg)
-
----
-## 🧭 About Me
+### Other Hobbies
 -  Enjoys hiking mountains (the higher, the better)
 - Snowboarding in POWDER, off piste preferably
 - Camping by the beach
