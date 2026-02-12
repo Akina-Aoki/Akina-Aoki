@@ -73,17 +73,6 @@ me = Aira()
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
-
-
-
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Evidence](https://img.shields.io/badge/Evidence-BI%20Dashboards-6E56CF?style=for-the-badge&logo=databricks&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFD43B?style=for-the-badge&logo=duckdb&logoColor=black)![Data Wrangler](https://img.shields.io/badge/Data%20Wrangler-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Bash](https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Pydantic](https://img.shields.io/badge/pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/apache%20kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![pgAdmin 4](https://img.shields.io/badge/pgadmin%204-2C3E50?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ---
 ## 🚀 Projects & Highlights
 - 🦆 [DuckDB SQL Relational Database and Evidence Dashboard using Sakila Database, DuckDB and Pandas](https://github.com/Akina-Aoki/sql_lab1_aira_franco.git)
