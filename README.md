@@ -24,6 +24,13 @@ class Aira:
 me = Aira()
 
 ```
+Feel free to contact me on LinkedIn:
+<div align="center">
+  <p>
+    <a href="https://www.linkedin.com/in/aira-franco0965/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
+    
+  </p>
+</div>
 
 ## 🚀 Projects & Highlights
 - 🦆 [DuckDB SQL Relational Database and Evidence Dashboard using Sakila Database, DuckDB and Pandas](https://github.com/Akina-Aoki/sql_lab1_aira_franco.git)
