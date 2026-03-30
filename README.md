@@ -33,6 +33,8 @@ Feel free to contact me on LinkedIn:
 </div>
 
 ## 🚀 Projects & Highlights
+- 🪠 [My humble ETL Pipeline | Pandas + Psycopg3 + PSQL](https://github.com/Akina-Aoki/data_ops_workflow_lab1)
+- ⚙️ [Product FInder: Inventory Management Platform using  ETL + FastAPI + Kafka + Postgresql / Supabase](https://github.com/Akina-Aoki/Product_Finder)
 - 🦆 [DuckDB SQL Relational Database and Evidence Dashboard using Sakila Database, DuckDB and Pandas](https://github.com/Akina-Aoki/sql_lab1_aira_franco.git)
 - 🧮 [Object Oriented Programming / Python](https://github.com/Akina-Aoki/aira_franco_lab2.git)
 - 🏫 [Data Modelling for a school system: Relational Database, 3NF, PostgreSQL, Docker](https://github.com/Akina-Aoki/data_modelling_lab_aira_franco.git)
