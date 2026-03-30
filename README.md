@@ -51,6 +51,7 @@ Feel free to contact me on LinkedIn:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFD43B?style=for-the-badge&logo=duckdb&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Data Wrangler](https://img.shields.io/badge/Data%20Wrangler-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![pgAdmin 4](https://img.shields.io/badge/pgadmin%204-2C3E50?style=for-the-badge&logo=postgresql&logoColor=white)
