@@ -45,7 +45,6 @@ Feel free to contact me on LinkedIn:
 
 ### Programming & Runtime
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
@@ -56,16 +55,17 @@ Feel free to contact me on LinkedIn:
 ![Kafka](https://img.shields.io/badge/kafka-%23000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Modern Data Stack](https://img.shields.io/badge/modern_data_stack-%231572B6.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+![Star Schema](https://img.shields.io/badge/star_schema-%23007ACC.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![DLT](https://img.shields.io/badge/delta_live_tables-%23000000.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![Dagster](https://img.shields.io/badge/dagster-%231F1F1F.svg?style=for-the-badge&logo=dagster&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-%23FF694B.svg?style=for-the-badge&logo=dbt&logoColor=white)
-![Star Schema](https://img.shields.io/badge/star_schema-%23007ACC.svg?style=for-the-badge&logo=databricks&logoColor=white)
+
 
 
 ### Databases & Analysis 
-
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFD43B?style=for-the-badge&logo=duckdb&logoColor=black)
 ![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Power BI](https://img.shields.io/badge/powerbi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Data Wrangler](https://img.shields.io/badge/Data%20Wrangler-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![pgAdmin 4](https://img.shields.io/badge/pgadmin%204-2C3E50?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -77,10 +77,18 @@ Feel free to contact me on LinkedIn:
 
 ### Cloud and Containerization 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+
+### BI, Visualizations and Dashboards 
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Evidence](https://img.shields.io/badge/Evidence-BI%20Dashboards-6E56CF?style=for-the-badge&logo=databricks&logoColor=white)
+![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/powerbi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black)
 
 ### AI Engineering
 ![AI Agents](https://img.shields.io/badge/ai_agents-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -91,17 +99,11 @@ Feel free to contact me on LinkedIn:
 ![Vector Database](https://img.shields.io/badge/vector_database-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Version Control and Collaboration 
+![Bash](https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github_actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/ci%2Fcd-%230A66C2.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
-
-### BI, Visualizations and Dashboards 
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Evidence](https://img.shields.io/badge/Evidence-BI%20Dashboards-6E56CF?style=for-the-badge&logo=databricks&logoColor=white)
-![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/powerbi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black)
 
 
 ### Creative Tools
