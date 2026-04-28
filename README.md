@@ -39,7 +39,7 @@ Feel free to contact me on LinkedIn:
 - 🦆 [DuckDB SQL Relational Database and Evidence Dashboard using Sakila Database, DuckDB and Pandas](https://github.com/Akina-Aoki/sql_lab1_aira_franco.git)
 - 🧮 [Object Oriented Programming / Python](https://github.com/Akina-Aoki/aira_franco_lab2.git)
 - 🏫 [Data Modelling for a school system: Relational Database, 3NF, PostgreSQL, Docker](https://github.com/Akina-Aoki/data_modelling_lab_aira_franco.git)
-- [Blog: Why Semantic Models Need Strong Data Engineering Principles](https://dataengineeringlearning.hashnode.dev/why-semantic-models-need-strong-data-engineering-principles?utm_source=hashnode&utm_medium=feed)
+- 📊 [Blog: Data Visualization in Power Bi | Why Semantic Models Need Strong Data Engineering Principles](https://dataengineeringlearning.hashnode.dev/why-semantic-models-need-strong-data-engineering-principles?utm_source=hashnode&utm_medium=feed)
 ---
 
 ## 🔧 Tech Stack and Tools:
