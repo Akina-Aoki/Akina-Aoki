@@ -41,11 +41,20 @@ Feel free to contact me on LinkedIn:
 - 🏫 [Data Modelling for a school system: Relational Database, 3NF, PostgreSQL, Docker](https://github.com/Akina-Aoki/data_modelling_lab_aira_franco.git)
 - 📊 [Blog: Data Visualization in Power Bi | Why Semantic Models Need Strong Data Engineering Principles](https://dataengineeringlearning.hashnode.dev/why-semantic-models-need-strong-data-engineering-principles?utm_source=hashnode&utm_medium=feed)
 - 🎞️ [Streamly Netflix Data Visualization using Streamlit App](https://github.com/Akina-Aoki/Netflix_Streamlit_Aira)
-- <p align="left">
+ <p align="left">
   <a href="https://netflix-top10-tudum-analysis.streamlit.app/">
     <img src="https://img.shields.io/badge/Open%20Streamly%20App-FFB84D?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0F0D0B" alt="Open Streamly App">
   </a>
 </p>
+
+- 💜 [European Labour Market Statistics Hackathon with DAIS & Lovable](https://github.com/Akina-Aoki/euro-labor-pulse.git)
+<p align="left">
+  <a href="https://euro-labor-pulse.lovable.app/">
+    <img src="https://img.shields.io/badge/Open%20ELMS%20Dashboard-EC4899?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=9333EA" alt="Open ELMS Dashboard">
+  </a>
+</p>
+
+
 ---
 
 ## 🔧 Tech Stack and Tools:
