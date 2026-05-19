@@ -53,7 +53,8 @@
 
 ---
 ## My Competency Map
-<img width="1491" height="1055" alt="Airas DE Roadmap" src="https://github.com/user-attachments/assets/12f952c0-41ee-4f59-83de-adf1503e63b0" />
+<img width="1448" height="1086" alt="Aira DE Roadmap" src="https://github.com/user-attachments/assets/d9a6e3c8-fac5-45a7-b4ba-f8fa75334c4b" />
+
 
 ---
 
