@@ -8,14 +8,25 @@
 <div align="left">
 
 ## 🧭 About Me
+- 🗻 Enjoys hiking mountains (the higher, the better)
+- 🏂🏻 Snowboarding in POWDER, off piste preferably
+- ⛺ Camping by the beach
+- ☕ Good roasted coffee
+- 🍜 Cooking and sharing food
+- 👩🏻‍💻 Always learning. Keep on going. 
 
-Feel free to contact me on LinkedIn:
-<div align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/aira-franco0965/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
-    
-  </p>
-</div>
+<p>
+  <a href="https://www.linkedin.com/in/aira-franco0965/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://hashnode.com/@Aira" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode%20%7C%20Data%20Engineering%20Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode | Data Engineering Blog" />
+  </a>
+</p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 🚀 Projects & Highlights
 - 🌟 [My Data Blog](https://hashnode.com/@Aira )
@@ -172,17 +183,8 @@ Feel free to contact me on LinkedIn:
 - Emphasize maintainability, clarity, and scalability while working within agile frameworks.
 
 ---
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### Other Hobbies
-- 🗻 Enjoys hiking mountains (the higher, the better)
-- 🏂🏻 Snowboarding in POWDER, off piste preferably
-- ⛺ Camping by the beach
-- ☕ Good roasted coffee
-- 🍜 Cooking and sharing food
-- 👩🏻‍💻 Always learning. Keep on going. 
----
+
 
 
 
