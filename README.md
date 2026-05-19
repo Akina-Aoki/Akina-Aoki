@@ -52,6 +52,11 @@
 
 
 ---
+## My Competency Map
+<img width="1491" height="1055" alt="Airas DE Roadmap" src="https://github.com/user-attachments/assets/12f952c0-41ee-4f59-83de-adf1503e63b0" />
+
+---
+
 
 ## 🔧 Tech Stack and Tools:
 
@@ -123,68 +128,6 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
 ---
-## My Competency Map
-![Programming Foundations](https://img.shields.io/badge/Programming-Foundations-3776AB?style=for-the-badge)
-
-- Develop applications in Python with a focus on clear structure, modularization, and reuse.
-- Work within isolated virtual environments, manage dependencies, and prioritize reproducible execution.
-- Apply a testing mindset and deterministic workflows to ensure reliable outcomes.
-
-![Query Languages](https://img.shields.io/badge/Query-Languages-CC2927?style=for-the-badge)
-
-- Use SQL to transform, validate, and analyze data. Write efficient joins, aggregations, and window operations.
-- Leverage queries to verify data integrity and support analytical requirements.
-
-![Data Modelling](https://img.shields.io/badge/Data-Modeling-F9A03C?style=for-the-badge)
-
-- Design data structures across conceptual, logical, and physical levels.
-- Apply normalization principles with emphasis on 3NF, primary and foreign keys, and constraint management.
-- Distinguish between transactional and analytical workloads and model accordingly using OLTP and OLAP patterns.
-
-![Databases & Storage](https://img.shields.io/badge/Databases-%26%20Storage-336791?style=for-the-badge)
-
-- Work primarily with relational databases such as PostgreSQL and DuckDB.
-- Understand schema design, data typing, and governance fundamentals.
-- Maintain awareness of document-oriented storage concepts and their use cases.
-
-![Data Integration](https://img.shields.io/badge/Data-Integration-0A66C2?style=for-the-badge)
-
-- Implement ETL and ELT workflows for batch ingestion and transformation.
-- Build repeatable pipelines that enforce data quality and traceability.
-- Structure processing steps to support downstream analytical consumption.
-
-![Data Warehousing](https://img.shields.io/badge/Data-Warehousing-FF9900?style=for-the-badge)
-
-- Understand the lifecycle of a data warehouse from raw ingestion to curated layers.
-- Design analytics-ready datasets using fact and dimension thinking.
-- Apply introductory dimensional modeling principles to support reporting needs.
-
-![Data Platform Development](https://img.shields.io/badge/Data%20Platform-Development-009688?style=for-the-badge)
-
-- Develop containerized solutions and think in terms of services rather than scripts.
-- Expose data through APIs and apply validation through contracts.
-- Practice ownership across development and operational concerns.
-
-![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory-Data%20Analysis-6F42C1?style=for-the-badge)
-
-- Perform exploratory data analysis to uncover trends and patterns.
-- Translate data into business-facing insights.
-- Deliver results through structured reports and interactive dashboards.
-
-![Big Data & Cloud Foundations](https://img.shields.io/badge/Big%20Data%20%26%20Cloud-Foundations-6C757D?style=for-the-badge)
-
-- Understand distributed processing concepts and the trade-offs of platform choices.
-- Build awareness of storage and compute considerations in modern data architectures.
-
-![Engineering Practices](https://img.shields.io/badge/Engineering-Practices-F05033?style=for-the-badge)
-
-- Use version control in collaborative environments.
-- Produce structured technical documentation and convert business requirements into implementable solutions.
-- Emphasize maintainability, clarity, and scalability while working within agile frameworks.
-
----
-
-
 
 
 
