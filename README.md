@@ -9,21 +9,6 @@
 
 ## 🧭 About Me
 
-```python
-class Aira:
-    def __init__(self):
-        self.curiosity = float("inf")
-        self.stack = ["Git", "Python", "SQL", "RDBMS", "Data Modelling", "Data Visualizing", "Big Data", "Cloud-practical development", "NoSQL", "Data warehouse lifecycle", "AI Ops"]
-        self.institution = "Stockholms Tekniska Institut"
-
-    def iterate(self):
-        return "Always learning. Always building. Data Engineering skills in progress."
-    def study(self):
-                return f"Currently studying Data Engineering at {self.institution}."
-
-me = Aira()
-
-```
 Feel free to contact me on LinkedIn:
 <div align="center">
   <p>
