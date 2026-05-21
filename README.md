@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">🌙 Hej! こんにちは！ I'm Aira</h1>
+<h1 align="center">🌙 Hej! こんにちは！ Welcome to my Github Page where I put all my Data Engineering work. </h1>
 
 <p align="left">
   <img src="./assets/chat-intro.svg" alt="Chat intro about Aira" />
@@ -54,11 +54,32 @@
   </a>
 </p>
 
-
 ---
-## My Competency Map
-<img width="1448" height="1086" alt="Aira DE Roadmap" src="https://github.com/user-attachments/assets/d9a6e3c8-fac5-45a7-b4ba-f8fa75334c4b" />
 
+<br>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akina-Aoki&theme=github_dark" 
+        width="420" 
+        alt="Aira's GitHub stats"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akina-Aoki&theme=github_dark" 
+        width="420" 
+        alt="Aira's most used languages"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
