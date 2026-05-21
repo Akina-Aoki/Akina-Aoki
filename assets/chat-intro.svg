@@ -49,13 +49,47 @@
     <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.8s" fill="freeze"/>
     <rect x="20" y="110" width="520" height="66" rx="22" class="bubble"/>
     <text x="38" y="137" class="bubbleText">Data Engineering Student in Stockholm</text>
-    <text x="38" y="162" class="bubbleText">Building dashboards, pipelines and analytics apps</text>
+    <text x="38" y="162" class="bubbleText">Building the foundation of AI, analytics, real-time systems and business decision-making. </text>
   </g>
 
   <!-- Bubble 3 -->
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="3.7s" fill="freeze"/>
     <rect x="20" y="186" width="650" height="42" rx="21" class="bubble"/>
-    <text x="38" y="213" class="bubbleText">Working with Python, SQL, Streamlit, dbt and Databricks</text>
+    <text x="38" y="213" class="bubbleText">Working with Python, SQL, data ingestion, data storage, data transformations (ELT/ETL), dbt.</text>
+  </g>
+</svg>
+
+ <!-- Bubble 4 -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="3.7s" fill="freeze"/>
+    <rect x="20" y="186" width="650" height="42" rx="21" class="bubble"/>
+    <text x="38" y="213" class="bubbleText">Real-Time Processing but I am still in the batch processing. Studied Kafka for this. Still isn't easy. haha</text>
+  </g>
+</svg>
+
+
+ <!-- Bubble 5-->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="3.7s" fill="freeze"/>
+    <rect x="20" y="186" width="650" height="42" rx="21" class="bubble"/>
+    <text x="38" y="213" class="bubbleText">Data Moedlling. We did RDBMS (relational database modeling). I am also self learning star schema and fact & dimensional tables.</text>
+  </g>
+</svg>
+
+
+ <!-- Bubble 6 -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="3.7s" fill="freeze"/>
+    <rect x="20" y="186" width="650" height="42" rx="21" class="bubble"/>
+    <text x="38" y="213" class="bubbleText">Data Pipelines & Orchestraion! Yeah! I'm self teaching myself Airflow. Hopefully Dagster when I have more time.</text>
+  </g>
+</svg>
+
+ <!-- Bubble 7 -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="3.7s" fill="freeze"/>
+    <rect x="20" y="186" width="650" height="42" rx="21" class="bubble"/>
+    <text x="38" y="213" class="bubbleText">And of course MORE! Checkout the projects I have built in the link below. :)</text>
   </g>
 </svg>
