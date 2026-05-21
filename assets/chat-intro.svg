@@ -1,0 +1,28 @@
+<svg width="760" height="260" viewBox="0 0 760 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title {
+      font: 700 22px Arial, sans-serif;
+      fill: #F5F0E8;
+    }
+    .bubbleText {
+      font: 500 18px Arial, sans-serif;
+      fill: #F5F0E8;
+    }
+    .linkText {
+      font: 500 18px Arial, sans-serif;
+      fill: #58A6FF;
+    }
+  </style>
+
+  <text x="20" y="35" class="title">Hi there 👋</text>
+
+  <rect x="20" y="58" width="215" height="42" rx="21" fill="#3A3A3D"/>
+  <text x="38" y="85" class="bubbleText">Hi, I'm Aira</text>
+
+  <rect x="20" y="110" width="520" height="66" rx="22" fill="#3A3A3D"/>
+  <text x="38" y="137" class="bubbleText">Data Engineering Student in Stockholm</text>
+  <text x="38" y="162" class="bubbleText">Building dashboards, pipelines and analytics apps</text>
+
+  <rect x="20" y="186" width="650" height="42" rx="21" fill="#3A3A3D"/>
+  <text x="38" y="213" class="bubbleText">Working with Python, SQL, Streamlit, dbt and Databricks</text>
+</svg>
