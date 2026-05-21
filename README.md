@@ -2,9 +2,8 @@
 <h1 align="center">🌙 Hej! こんにちは！ I'm Aira</h1>
 
 <p align="left">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Hi%2C%20I'm%20Aira%20Franco&width=700&height=80" alt="Hi, I'm Aira Franco" />
+  <img src="./assets/chat-intro.svg" alt="Chat intro about Aira" />
 </p>
-
 
 ## Keep on coding to feed my Python Pet
 
