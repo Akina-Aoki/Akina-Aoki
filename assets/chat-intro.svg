@@ -1,28 +1,61 @@
-<svg width="760" height="260" viewBox="0 0 760 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="760" height="270" viewBox="0 0 760 270" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     .title {
       font: 700 22px Arial, sans-serif;
       fill: #F5F0E8;
     }
+
     .bubbleText {
       font: 500 18px Arial, sans-serif;
       fill: #F5F0E8;
     }
-    .linkText {
-      font: 500 18px Arial, sans-serif;
-      fill: #58A6FF;
+
+    .bubble {
+      fill: #3A3A3D;
+    }
+
+    .dot {
+      fill: #8E8E93;
     }
   </style>
 
+  <!-- Title -->
   <text x="20" y="35" class="title">Hi there 👋</text>
 
-  <rect x="20" y="58" width="215" height="42" rx="21" fill="#3A3A3D"/>
-  <text x="38" y="85" class="bubbleText">Hi, I'm Aira</text>
+  <!-- Typing bubble -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.75;1" dur="1.8s" begin="0s" fill="freeze"/>
+    <rect x="20" y="58" width="95" height="42" rx="21" class="bubble"/>
+    <circle cx="48" cy="79" r="5" class="dot">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="0.6s" begin="0s" repeatCount="3"/>
+    </circle>
+    <circle cx="68" cy="79" r="5" class="dot">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="0.6s" begin="0.2s" repeatCount="3"/>
+    </circle>
+    <circle cx="88" cy="79" r="5" class="dot">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="0.6s" begin="0.4s" repeatCount="3"/>
+    </circle>
+  </g>
 
-  <rect x="20" y="110" width="520" height="66" rx="22" fill="#3A3A3D"/>
-  <text x="38" y="137" class="bubbleText">Data Engineering Student in Stockholm</text>
-  <text x="38" y="162" class="bubbleText">Building dashboards, pipelines and analytics apps</text>
+  <!-- Bubble 1 -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.9s" fill="freeze"/>
+    <rect x="20" y="58" width="215" height="42" rx="21" class="bubble"/>
+    <text x="38" y="85" class="bubbleText">Hi, I'm Aira</text>
+  </g>
 
-  <rect x="20" y="186" width="650" height="42" rx="21" fill="#3A3A3D"/>
-  <text x="38" y="213" class="bubbleText">Working with Python, SQL, Streamlit, dbt and Databricks</text>
+  <!-- Bubble 2 -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.8s" fill="freeze"/>
+    <rect x="20" y="110" width="520" height="66" rx="22" class="bubble"/>
+    <text x="38" y="137" class="bubbleText">Data Engineering Student in Stockholm</text>
+    <text x="38" y="162" class="bubbleText">Building dashboards, pipelines and analytics apps</text>
+  </g>
+
+  <!-- Bubble 3 -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="3.7s" fill="freeze"/>
+    <rect x="20" y="186" width="650" height="42" rx="21" class="bubble"/>
+    <text x="38" y="213" class="bubbleText">Working with Python, SQL, Streamlit, dbt and Databricks</text>
+  </g>
 </svg>
