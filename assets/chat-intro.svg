@@ -1,4 +1,4 @@
-<svg width="920" height="300" viewBox="0 0 920 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="960" height="390" viewBox="0 0 960 390" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     .title {
       font: 700 22px Arial, sans-serif;
@@ -6,7 +6,7 @@
     }
 
     .bubbleText {
-      font: 500 17px Arial, sans-serif;
+      font: 500 16px Arial, sans-serif;
       fill: #F5F0E8;
     }
 
@@ -40,23 +40,26 @@
   <!-- Bubble 1 -->
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.9s" fill="freeze"/>
-    <rect x="20" y="58" width="280" height="42" rx="21" class="bubble"/>
-    <text x="38" y="85" class="bubbleText">Hi, I'm Aira — a Data Engineering student based in Stockholm.</text>
+    <rect x="20" y="58" width="870" height="74" rx="24" class="bubble"/>
+    <text x="38" y="86" class="bubbleText">Hi, I'm Aira — a Data Engineering student based in Stockholm, building my foundation in analytics engineering,</text>
+    <text x="38" y="111" class="bubbleText">AI-ready data platforms, real-time systems, and business decision-making through data.</text>
   </g>
 
   <!-- Bubble 2 -->
   <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.8s" fill="freeze"/>
-    <rect x="20" y="112" width="860" height="66" rx="22" class="bubble"/>
-    <text x="38" y="139" class="bubbleText">I’m building a strong foundation in analytics engineering, data platforms,</text>
-    <text x="38" y="164" class="bubbleText">and the systems that power AI, reporting, and better business decision-making.</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.9s" fill="freeze"/>
+    <rect x="20" y="150" width="910" height="98" rx="24" class="bubble"/>
+    <text x="38" y="178" class="bubbleText">I work with Python, SQL, data ingestion, data storage, ETL/ELT transformations, dbt, and data modeling.</text>
+    <text x="38" y="203" class="bubbleText">So far, I have studied RDBMS and relational database modeling, and I am also self-learning star schema,</text>
+    <text x="38" y="228" class="bubbleText">fact tables, dimension tables, and stronger analytics engineering patterns.</text>
   </g>
 
   <!-- Bubble 3 -->
   <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="3.7s" fill="freeze"/>
-    <rect x="20" y="190" width="880" height="66" rx="22" class="bubble"/>
-    <text x="38" y="217" class="bubbleText">I work with Python, SQL, data ingestion, storage, ETL/ELT, dbt, and data modeling,</text>
-    <text x="38" y="242" class="bubbleText">while continuing to grow into orchestration, cloud workflows, and real-time systems.</text>
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="3.9s" fill="freeze"/>
+    <rect x="20" y="266" width="910" height="98" rx="24" class="bubble"/>
+    <text x="38" y="294" class="bubbleText">I am currently strengthening batch processing while learning real-time processing concepts with Kafka.</text>
+    <text x="38" y="319" class="bubbleText">I am also self-teaching data pipelines and orchestration with Airflow, with Dagster on my roadmap.</text>
+    <text x="38" y="344" class="bubbleText">And of course, more — check out the projects I have built below. :)</text>
   </g>
 </svg>
