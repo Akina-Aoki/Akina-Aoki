@@ -41,25 +41,25 @@
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.9s" fill="freeze"/>
     <rect x="20" y="58" width="870" height="74" rx="24" class="bubble"/>
-    <text x="38" y="86" class="bubbleText">Hi, I'm Aira — a Data Engineering student based in Stockholm, building my foundation in analytics engineering,</text>
-    <text x="38" y="111" class="bubbleText">AI-ready data platforms, real-time systems, and business decision-making through data.</text>
+    <text x="38" y="86" class="bubbleText">Hi, I'm Aira, a Data Engineering student based in Stockholm, building my foundation in data engineering,</text>
+    <text x="38" y="111" class="bubbleText">So I can build AI-ready data platforms, real-time systems, and business decision-making through data.</text>
   </g>
 
   <!-- Bubble 2 -->
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.9s" fill="freeze"/>
     <rect x="20" y="150" width="910" height="98" rx="24" class="bubble"/>
-    <text x="38" y="178" class="bubbleText">I work with Python, SQL, data ingestion, data storage, ETL/ELT transformations, dbt, and data modeling.</text>
-    <text x="38" y="203" class="bubbleText">So far, I have studied RDBMS and relational database modeling, and I am also self-learning star schema,</text>
-    <text x="38" y="228" class="bubbleText">fact tables, dimension tables, and stronger analytics engineering patterns.</text>
+    <text x="38" y="178" class="bubbleText">I work with Python, SQL (DuckDB and Postgres), data ingestion, data storage, ETL/ELT transformations, dbt (my favorite tool and still learning), data warehousing, data visualization and data modeling.</text>
+    <text x="38" y="203" class="bubbleText">So far, I have studied RDBMS and star schema / dimensional modeling, and I am also self-learning modern data stacks tools like Databricks, Snowflake and S3,</text>
+    <text x="38" y="228" class="bubbleText"></text>
   </g>
 
   <!-- Bubble 3 -->
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="3.9s" fill="freeze"/>
     <rect x="20" y="266" width="910" height="98" rx="24" class="bubble"/>
-    <text x="38" y="294" class="bubbleText">I am currently strengthening batch processing while learning real-time processing concepts with Kafka.</text>
-    <text x="38" y="319" class="bubbleText">I am also self-teaching data pipelines and orchestration with Airflow, with Dagster on my roadmap.</text>
-    <text x="38" y="344" class="bubbleText">And of course, more — check out the projects I have built below. :)</text>
+    <text x="38" y="294" class="bubbleText">I am currently strengthening batch processing and real-time processing concepts with Kafka. It's not easy. *cry. </text>
+    <text x="38" y="319" class="bubbleText">I am also improving skills in data pipelines and orchestration with Airflow, with Dagster on my roadmap.</text>
+    <text x="38" y="344" class="bubbleText">And of course, more. check out the projects I have built below. :)</text>
   </g>
 </svg>
