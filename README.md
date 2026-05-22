@@ -116,10 +116,6 @@
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" />
-      <br>Jupyter
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
       <br>FastAPI
     </td>
@@ -143,19 +139,15 @@
 
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/pgadmin/336791" width="48" height="48" alt="pgAdmin" />
-      <br>pgAdmin
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
       <br>Supabase
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI" />
+      <strong style="font-size: 28px;">BI</strong>
       <br>Power BI
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/dbt/FF694B" width="48" height="48" alt="dbt" />
+      <strong style="font-size: 28px;">dbt</strong>
       <br>dbt
     </td>
     <td align="center" width="96">
@@ -178,15 +170,11 @@
       <br>Airflow
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/dagster/654FF0" width="48" height="48" alt="Dagster" />
-      <br>Dagster
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/amazons3/569A31" width="48" height="48" alt="Amazon S3" />
+      <strong style="font-size: 28px;">S3</strong>
       <br>Amazon S3
     </td>
     <td align="center" width="96">
@@ -221,10 +209,6 @@
       <br>Plotly
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/matplotlib/11557C" width="48" height="48" alt="Matplotlib" />
-      <br>Matplotlib
-    </td>
-    <td align="center" width="96">
       <strong style="font-size: 28px;">LV</strong>
       <br>Lovable
     </td>
@@ -240,11 +224,11 @@
       <br>MLflow
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" height="48" alt="LLMs" />
+      <strong style="font-size: 28px;">AI</strong>
       <br>LLMs
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/weaviate/00B800" width="48" height="48" alt="Vector Database" />
+      <strong style="font-size: 28px;">VDB</strong>
       <br>Vector DB
     </td>
     <td align="center" width="96">
@@ -259,10 +243,6 @@
       <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
       <br>GitHub Actions
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-      <br>Bash
-    </td>
   </tr>
 
   <tr>
@@ -275,20 +255,16 @@
       <br>Pytest
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+      <br>Bash
+    </td>
+    <td align="center" width="96">
       <strong style="font-size: 28px;">ETL</strong>
       <br>ETL / ELT
     </td>
     <td align="center" width="96">
       <strong style="font-size: 28px;">DWH</strong>
       <br>Data Warehouse
-    </td>
-    <td align="center" width="96">
-      <strong style="font-size: 28px;">BI</strong>
-      <br>BI Dashboards
-    </td>
-    <td align="center" width="96">
-      <strong style="font-size: 28px;">RAG</strong>
-      <br>RAG Eval
     </td>
     <td align="center" width="96">
       <strong style="font-size: 28px;">CI</strong>
