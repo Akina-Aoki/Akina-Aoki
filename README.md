@@ -21,13 +21,6 @@
 
 ## 🧭 About Me
 
-- 🗻 Enjoys hiking mountains — the higher, the better
-- 🏂 Snowboarding in powder, preferably off-piste
-- ⛺ Camping by the beach
-- ☕ Good roasted coffee
-- 🍜 Cooking and sharing food
-- 👩🏻‍💻 Always learning. Keep on going.
-
 <p align="left">
   <a href="https://www.linkedin.com/in/aira-franco0965/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -38,6 +31,13 @@
   </a>
 </p>
 
+
+- 🗻 Enjoys hiking mountains — the higher, the better
+- 🏂 Snowboarding in powder, preferably off-piste
+- ⛺ Camping by the beach
+- ☕ Good roasted coffee
+- 🍜 Cooking and sharing food
+- 👩🏻‍💻 Always learning. Keep on going.
 
 <br>
 
