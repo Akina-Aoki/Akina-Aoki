@@ -5,23 +5,7 @@
   <strong>Welcome to my GitHub profile — where I document my Data Engineering journey, projects, and experiments.</strong>
 </p>
 
-<p align="left">
-  <img src="./assets/chat-intro.svg" alt="Chat intro about Aira" />
-</p>
-
-
-<br>
-
-## 🐍 Keep on coding to feed my Python Pet
-
-![snake gif](https://github.com/Akina-Aoki/Akina-Aoki/blob/output/github-contribution-grid-snake.svg)
-
-
-<br>
-
-## 🧭 About Me
-
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/aira-franco0965/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -31,13 +15,25 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="./assets/chat-intro.svg" alt="Chat intro about Aira" />
+</p>
 
-- 🗻 Enjoys hiking mountains — the higher, the better
-- 🏂 Snowboarding in powder, preferably off-piste
-- ⛺ Camping by the beach
-- ☕ Good roasted coffee
-- 🍜 Cooking and sharing food
-- 👩🏻‍💻 Always learning. Keep on going.
+
+<br>
+
+
+## 🐍 Keep on coding to feed my Python Pet
+
+![snake gif](https://github.com/Akina-Aoki/Akina-Aoki/blob/output/github-contribution-grid-snake.svg)
+
+
+<br>
+
+
+## 🗺️ My Data Engineering Roadmap
+
+<img width="1448" height="1086" alt="Aira Data Engineering Roadmap" src="https://github.com/user-attachments/assets/b011e4cf-ae57-41a3-b2cf-d08be66403a1" />
 
 <br>
 
@@ -276,6 +272,11 @@
 
 <br>
 
-## 🗺️ My Data Engineering Roadmap
+## Others
+- 🗻 Enjoys hiking mountains — the higher, the better
+- 🏂 Snowboarding in powder, preferably off-piste
+- ⛺ Camping by the beach
+- ☕ Good roasted coffee
+- 🍜 Cooking and sharing food
+- 👩🏻‍💻 Always learning. Keep on going.
 
-<img width="1448" height="1086" alt="Aira Data Engineering Roadmap" src="https://github.com/user-attachments/assets/b011e4cf-ae57-41a3-b2cf-d08be66403a1" />
