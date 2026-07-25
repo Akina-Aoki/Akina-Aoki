@@ -79,6 +79,9 @@
 
 <br>
 
+- 🏃 [Databricks Analysis and Dashboard | Medallion Architecture | Databricks + Lakeflow + Pyspark ](https://github.com/Akina-Aoki/marathos_databricks)
+- [📈 Blog: Marathos Atlas - Building a data platform in Databricks to learn Medallion Architecture](https://dataengineeringlearning.hashnode.dev/marathos-atlas-building-a-data-platform-in-databricks-to-learn-medallion-architecture?utm_source=hashnode&utm_medium=feed)
+
 ## 📊 GitHub Analytics
 
 <table align="center">
