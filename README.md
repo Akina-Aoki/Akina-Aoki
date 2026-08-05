@@ -15,6 +15,37 @@
   </a>
 </p>
 
+<!-- ========================================================= -->
+<!-- 🚨 DEFINITELY NOT A SUSPICIOUS BUTTON 🚨 -->
+<!-- ========================================================= -->
+
+<br>
+
+<div align="center">
+
+### 🚨 CAREER OPPORTUNITY DETECTED 🚨
+
+<a href="YOUR_STREAMLIT_APP_URL">
+  <img
+    src="https://img.shields.io/badge/⚠️%20CLICK%20HERE%20TO%20UNLOCK%20MY%20POTENTIAL%20⚠️-FF1744?style=for-the-badge&logo=streamlit&logoColor=white"
+    alt="Click here to unlock my potential"
+    height="70"
+  />
+</a>
+
+<br><br>
+
+<sub>
+💾 100% REAL DATA ENGINEER &nbsp;•&nbsp;
+🔥 NO CREDIT CARD REQUIRED &nbsp;•&nbsp;
+👀 RECRUITERS CLICK HERE
+</sub>
+
+</div>
+
+<br>
+
+
 <p align="center">
   <img src="./assets/chat-intro.svg" alt="Chat intro about Aira" />
 </p>
