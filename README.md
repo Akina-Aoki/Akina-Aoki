@@ -1,9 +1,19 @@
 <!-- Banner -->
-<h1 align="center">🌙 Hej! こんにちは！ I'm Aira</h1>
+<h1 align="center">🌙 Hej! こんにちは！ Hello!</h1>
 
 <p align="center">
   <strong>Welcome to my GitHub profile — where I document my Data Engineering journey, projects, and experiments.</strong>
 </p>
+
+
+<br>
+
+
+<p align="center">
+  <img src="./assets/chat-intro.svg" alt="Chat intro about Aira" />
+</p>
+
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aira-franco0965/">
@@ -43,14 +53,6 @@
 </sub>
 
 </div>
-
-<br>
-
-
-<p align="center">
-  <img src="./assets/chat-intro.svg" alt="Chat intro about Aira" />
-</p>
-
 
 <br>
 
