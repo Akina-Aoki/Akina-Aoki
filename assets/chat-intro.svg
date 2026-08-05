@@ -1,86 +1,206 @@
-<svg width="960" height="420" viewBox="0 0 960 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="960" height="480" viewBox="0 0 960 480" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     .title {
       font: 700 22px Arial, sans-serif;
-      fill: #E6D8C9;
+      fill: #E9F0ED;
     }
 
     .bubbleTextLight {
       font: 500 16px Arial, sans-serif;
-      fill: #F5F0E8;
+      fill: #E9F0ED;
     }
 
     .bubbleTextDark {
       font: 500 16px Arial, sans-serif;
-      fill: #071849;
+      fill: #0D1117;
     }
 
     .background {
-      fill: #071849;
+      fill: #0D1117;
     }
 
-    .bubbleBlue {
-      fill: #283D8B;
+    .bubbleTealDark {
+      fill: #2C595E;
     }
 
-    .bubbleBeige {
-      fill: #E6D8C9;
+    .bubbleLight {
+      fill: #E9F0ED;
     }
 
-    .bubbleGray {
-      fill: #C8C8CB;
+    .bubbleDark {
+      fill: #1B2228;
+    }
+
+    .typingBubble {
+      fill: #449C8C;
     }
 
     .dot {
-      fill: #C8C8CB;
+      fill: #E9F0ED;
     }
   </style>
 
   <!-- Background -->
-  <rect width="960" height="420" class="background"/>
+  <rect width="960" height="480" class="background"/>
 
   <!-- Title -->
   <text x="20" y="35" class="title">Hi there 👋</text>
 
   <!-- Typing bubble -->
   <g opacity="0">
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.75;1" dur="1.8s" begin="0s" fill="freeze"/>
-    <rect x="20" y="58" width="95" height="42" rx="21" fill="#613774"/>
+    <animate
+      attributeName="opacity"
+      values="0;1;1;0"
+      keyTimes="0;0.1;0.75;1"
+      dur="1.8s"
+      begin="0s"
+      fill="freeze"
+    />
+
+    <rect
+      x="20"
+      y="58"
+      width="95"
+      height="42"
+      rx="21"
+      class="typingBubble"
+    />
+
     <circle cx="48" cy="79" r="5" class="dot">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="0.6s" begin="0s" repeatCount="3"/>
+      <animate
+        attributeName="opacity"
+        values="0.3;1;0.3"
+        dur="0.6s"
+        begin="0s"
+        repeatCount="3"
+      />
     </circle>
+
     <circle cx="68" cy="79" r="5" class="dot">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="0.6s" begin="0.2s" repeatCount="3"/>
+      <animate
+        attributeName="opacity"
+        values="0.3;1;0.3"
+        dur="0.6s"
+        begin="0.2s"
+        repeatCount="3"
+      />
     </circle>
+
     <circle cx="88" cy="79" r="5" class="dot">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="0.6s" begin="0.4s" repeatCount="3"/>
+      <animate
+        attributeName="opacity"
+        values="0.3;1;0.3"
+        dur="0.6s"
+        begin="0.4s"
+        repeatCount="3"
+      />
     </circle>
   </g>
 
   <!-- Bubble 1 -->
   <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.9s" fill="freeze"/>
-    <rect x="20" y="58" width="870" height="74" rx="24" class="bubbleBlue"/>
-    <text x="38" y="86" class="bubbleTextLight">Hi, I'm Aira, a Data Engineering student based in Stockholm, building my foundation in data engineering,</text>
-    <text x="38" y="111" class="bubbleTextLight">so I can build AI-ready data platforms, real-time systems, and business decision-making through data.</text>
+    <animate
+      attributeName="opacity"
+      from="0"
+      to="1"
+      dur="0.35s"
+      begin="1.9s"
+      fill="freeze"
+    />
+
+    <rect
+      x="20"
+      y="58"
+      width="900"
+      height="122"
+      rx="24"
+      class="bubbleTealDark"
+    />
+
+    <text x="38" y="86" class="bubbleTextLight">
+      Hi, I'm Aira! I have AI FOMO — the productive kind.
+    </text>
+
+    <text x="38" y="111" class="bubbleTextLight">
+      I love data because A) facts tend to win arguments (yes, I enjoy a debate), and
+    </text>
+
+    <text x="38" y="136" class="bubbleTextLight">
+      B) AI systems and LLMs are basically hungry little machines living on water, energy, and DATA.
+    </text>
+
+    <text x="38" y="161" class="bubbleTextLight">
+      So naturally, I decided to become one of the people who feeds them. Responsibly. Hopefully.
+    </text>
   </g>
 
   <!-- Bubble 2 -->
   <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.9s" fill="freeze"/>
-    <rect x="20" y="150" width="890" height="122" rx="24" class="bubbleBeige"/>
-    <text x="38" y="178" class="bubbleTextDark">I work with Python, SQL, DuckDB, Postgres, data ingestion, data storage, ETL/ELT transformations,</text>
-    <text x="38" y="203" class="bubbleTextDark">dbt, data warehousing, data visualization, and data modeling.</text>
-    <text x="38" y="228" class="bubbleTextDark">So far, I have studied RDBMS, star schema, and dimensional modeling,</text>
-    <text x="38" y="253" class="bubbleTextDark">and I am also self-learning tools like Databricks, Snowflake, and Amazon S3.</text>
+    <animate
+      attributeName="opacity"
+      from="0"
+      to="1"
+      dur="0.35s"
+      begin="3.1s"
+      fill="freeze"
+    />
+
+    <rect
+      x="20"
+      y="198"
+      width="900"
+      height="126"
+      rx="24"
+      class="bubbleLight"
+    />
+
+    <text x="38" y="226" class="bubbleTextDark">
+      My engineering mantra:
+    </text>
+
+    <text x="38" y="251" class="bubbleTextDark">
+      "Don't be afraid to make mistakes.
+    </text>
+
+    <text x="38" y="276" class="bubbleTextDark">
+      Unless it's in Git. Then be afraid.
+    </text>
+
+    <text x="38" y="301" class="bubbleTextDark">
+      Be VERY, VERY afraid."
+    </text>
   </g>
 
   <!-- Bubble 3 -->
   <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="3.9s" fill="freeze"/>
-    <rect x="20" y="292" width="890" height="98" rx="24" class="bubbleGray"/>
-    <text x="38" y="320" class="bubbleTextDark">I am currently strengthening batch processing and real-time processing concepts with Kafka. It's not easy. *cry.</text>
-    <text x="38" y="345" class="bubbleTextDark">I am also improving my skills in data pipelines and orchestration with Airflow, with Dagster on my roadmap.</text>
-    <text x="38" y="370" class="bubbleTextDark">And of course, more. Check out the projects I have built below. :)</text>
+    <animate
+      attributeName="opacity"
+      from="0"
+      to="1"
+      dur="0.35s"
+      begin="4.3s"
+      fill="freeze"
+    />
+
+    <rect
+      x="20"
+      y="342"
+      width="900"
+      height="108"
+      rx="24"
+      class="bubbleDark"
+    />
+
+    <text x="38" y="370" class="bubbleTextLight">
+      Jokes aside — click any of the links above for serious Data Engineering talk, projects, and write-ups.
+    </text>
+
+    <text x="38" y="397" class="bubbleTextLight">
+      It's safe. 🙂
+    </text>
+
+    <text x="38" y="424" class="bubbleTextLight">
+      TRUST ME, BRO.
+    </text>
   </g>
 </svg>
