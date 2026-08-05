@@ -38,6 +38,7 @@
 <sub>
 💾 100% REAL DATA ENGINEER &nbsp;•&nbsp;
 🔥 NO CREDIT CARD REQUIRED &nbsp;•&nbsp;
+🙂 NOT A VIRUS. TRUST ME. &nbsp;•&nbsp;
 👀 RECRUITERS CLICK HERE
 </sub>
 
