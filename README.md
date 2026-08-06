@@ -35,7 +35,7 @@
 
 ### 🚨 CAREER OPPORTUNITY DETECTED 🚨
 
-<a href="YOUR_STREAMLIT_APP_URL">
+<a href="https://aira-franco-data-engineer-portfolio.streamlit.app/">
   <img
     src="https://img.shields.io/badge/⚠️%20CLICK%20HERE%20TO%20UNLOCK%20MY%20POTENTIAL%20⚠️-FF1744?style=for-the-badge&logo=streamlit&logoColor=white"
     alt="Click here to unlock my potential"
