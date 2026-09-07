@@ -64,13 +64,6 @@
 
 <br>
 
-
-## 🗺️ My Data Engineering Roadmap
-
-<img width="1448" height="1086" alt="Aira Data Engineering Roadmap" src="https://github.com/user-attachments/assets/b011e4cf-ae57-41a3-b2cf-d08be66403a1" />
-
-<br>
-
 ## ✍️ Random Dev Quote
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -80,64 +73,25 @@
 
 ## 🚀 Projects & Highlights
 
-- 🌟 [My Data Engineering Blog](https://hashnode.com/@Aira)
+| Repository | Description |
+| :--- | :--- |
+| [🌒 eClipseBord – Azure Full-Stack Application](https://github.com/Akina-Aoki/azure_python_fullstack_lab) | A solar and lunar eclipse app with FastAPI and Streamlit. I used Docker to package it and learned to deploy it to Azure, first manually and then with Terraform. |
+| [🏃 Marathos Atlas](https://github.com/Akina-Aoki/marathos_databricks) | My project for learning Medallion Architecture in Databricks. I used PySpark and Lakeflow to take ultramarathon data through bronze, silver, and gold layers and into a dashboard. |
+| [⚙️ Product Finder](https://github.com/Akina-Aoki/Product_Finder) | An inventory management project where I worked with ETL, FastAPI, Kafka, and PostgreSQL/Supabase to connect the data pipeline with an application. |
+| [💜 European Labour Market Statistics](https://github.com/Akina-Aoki/euro-labor-pulse.git) | A hackathon project exploring European labour market data using DAIS and Lovable. [Open the dashboard](https://euro-labor-pulse.lovable.app/) |
+| [🎞️ Streamly](https://github.com/Akina-Aoki/Netflix_Streamlit_Aira) | A Streamlit app where I explored Netflix Top 10 data and practiced turning it into interactive visualizations. [Open the app](https://netflix-top10-tudum-analysis.streamlit.app/) |
+| [🪠 My Humble ETL Pipeline](https://github.com/Akina-Aoki/data_ops_workflow_lab1) | My practice with extracting and transforming data using Pandas, then loading it into PostgreSQL with Psycopg 3. |
+| [🏫 School System Data Model](https://github.com/Akina-Aoki/data_modelling_lab_aira_franco.git) | A school database project where I practiced relational database design and normalization up to 3NF, using PostgreSQL and Docker. |
+| [🦆 Sakila Evidence Dashboard](https://github.com/Akina-Aoki/sql_lab1_aira_franco.git) | My SQL practice with the Sakila database, using DuckDB and Pandas to explore the data and present it in an Evidence dashboard. |
+| [🧮 Object-Oriented Programming with Python](https://github.com/Akina-Aoki/aira_franco_lab2.git) | My Python OOP lab, where I practiced organizing code into classes and understanding how objects work together. |
 
-- 🪠 [My Humble ETL Pipeline | Pandas + Psycopg3 + PostgreSQL](https://github.com/Akina-Aoki/data_ops_workflow_lab1)
+## ✍️ Technical Writing
 
-- ⚙️ [Product Finder | Inventory Management Platform using ETL + FastAPI + Kafka + PostgreSQL / Supabase](https://github.com/Akina-Aoki/Product_Finder)
-
-- 🦆 [DuckDB SQL Relational Database and Evidence Dashboard | Sakila Database + DuckDB + Pandas](https://github.com/Akina-Aoki/sql_lab1_aira_franco.git)
-
-- 🧮 [Object-Oriented Programming with Python](https://github.com/Akina-Aoki/aira_franco_lab2.git)
-
-- 🏫 [Data Modeling for a School System | Relational Database Design + 3NF + PostgreSQL + Docker](https://github.com/Akina-Aoki/data_modelling_lab_aira_franco.git)
-
-- 📊 [Blog: Data Visualization in Power BI | Why Semantic Models Need Strong Data Engineering Principles](https://dataengineeringlearning.hashnode.dev/why-semantic-models-need-strong-data-engineering-principles?utm_source=hashnode&utm_medium=feed)
-
-- 🎞️ [Streamly | Netflix Top 10 Data Visualization using Streamlit](https://github.com/Akina-Aoki/Netflix_Streamlit_Aira)
-
-<p align="left">
-  <a href="https://netflix-top10-tudum-analysis.streamlit.app/">
-    <img src="https://img.shields.io/badge/Open%20Streamly%20App-FFB84D?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0F0D0B" alt="Open Streamly App" />
-  </a>
-</p>
-
-- 💜 [European Labour Market Statistics Hackathon | DAIS + Lovable](https://github.com/Akina-Aoki/euro-labor-pulse.git)
-
-<p align="left">
-  <a href="https://euro-labor-pulse.lovable.app/">
-    <img src="https://img.shields.io/badge/Open%20ELMS%20Dashboard-EC4899?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=9333EA" alt="Open ELMS Dashboard" />
-  </a>
-</p>
-
-
-<br>
-
-- 🏃 [Databricks Analysis and Dashboard | Medallion Architecture | Databricks + Lakeflow + Pyspark ](https://github.com/Akina-Aoki/marathos_databricks)
-- [📈 Blog: Marathos Atlas - Building a data platform in Databricks to learn Medallion Architecture](https://dataengineeringlearning.hashnode.dev/marathos-atlas-building-a-data-platform-in-databricks-to-learn-medallion-architecture?utm_source=hashnode&utm_medium=feed)
-- [Python Fullstack Application using FastAPI Backend + Streamlit Frontend | Dockerized | Deployed in Azure Manually and with Terraform IaC](https://github.com/Akina-Aoki/azure_python_fullstack_lab)
-
-## 📊 GitHub Analytics
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akina-Aoki&theme=github_dark" 
-        width="420" 
-        alt="Aira's GitHub stats"
-      />
-    </td>
-    <td align="center" width="50%">
-      <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akina-Aoki&theme=github_dark" 
-        width="420" 
-        alt="Aira's most used languages"
-      />
-    </td>
-  </tr>
-</table>
-
+| Article | Description |
+| :--- | :--- |
+| [🌟 My Data Engineering Blog](https://hashnode.com/@Aira) | Where I write about what I’m learning, the projects I’m working on, and the things I’m still trying to understand. |
+| [📊 Why Semantic Models Need Strong Data Engineering Principles](https://dataengineeringlearning.hashnode.dev/why-semantic-models-need-strong-data-engineering-principles) | What I learned about Power BI semantic models and why the data behind a dashboard matters just as much as the visuals. |
+| [📈 Building Marathos Atlas in Databricks](https://dataengineeringlearning.hashnode.dev/marathos-atlas-building-a-data-platform-in-databricks-to-learn-medallion-architecture) | How I built Marathos Atlas to understand Medallion Architecture by actually working through the different data layers. |
 
 <br>
 
@@ -307,6 +261,32 @@
   </tr>
 </table>
 
+## 📊 GitHub Analytics
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akina-Aoki&theme=github_dark" 
+        width="420" 
+        alt="Aira's GitHub stats"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akina-Aoki&theme=github_dark" 
+        width="420" 
+        alt="Aira's most used languages"
+      />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 🗺️ My Data Engineering Roadmap
+
+<img width="1448" height="1086" alt="Aira Data Engineering Roadmap" src="https://github.com/user-attachments/assets/b011e4cf-ae57-41a3-b2cf-d08be66403a1" />
 
 <br>
 
