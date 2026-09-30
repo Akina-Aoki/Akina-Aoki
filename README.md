@@ -75,6 +75,7 @@
 
 | Repository | Description |
 | :--- | :--- |
+| [🌟Data Warehouse Lifecycle](https://github.com/Akina-Aoki/AiraTheSnowFairy) | Modern Data Stack Lectture Repo: dlt, dbt, dagster, snowflake, python, azure, streamlit. |
 | [🌒 eClipseBord – Azure Full-Stack Application](https://github.com/Akina-Aoki/azure_python_fullstack_lab) | A solar and lunar eclipse app with FastAPI and Streamlit. I used Docker to package it and learned to deploy it to Azure, first manually and then with Terraform. |
 | [🏃 Marathos Atlas](https://github.com/Akina-Aoki/marathos_databricks) | My project for learning Medallion Architecture in Databricks. I used PySpark and Lakeflow to take ultramarathon data through bronze, silver, and gold layers and into a dashboard. |
 | [⚙️ Product Finder](https://github.com/Akina-Aoki/Product_Finder) | An inventory management project where I worked with ETL, FastAPI, Kafka, and PostgreSQL/Supabase to connect the data pipeline with an application. |
