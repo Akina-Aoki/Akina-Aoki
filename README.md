@@ -91,6 +91,8 @@
 | Article | Description |
 | :--- | :--- |
 | [🌟 My Data Engineering Blog](https://hashnode.com/@Aira) | Where I write about what I’m learning, the projects I’m working on, and the things I’m still trying to understand. |
+|  [🎻 Orchestration with Dagster](https://dataengineeringlearning.hashnode.dev/learning-data-orchestration-with-dagster) |  I am learning how to orchestrate with dagster. |
+| [🏠 Modern Data Warehouse Lifecycle](https://dataengineeringlearning.hashnode.dev/inside-a-modern-data-warehouse-lifecycle-snowflake-dlt-dbt-and-data-modeling)| Learning log with Snowflake, dlt, dbt, and Data Modeling. |
 | [📊 Why Semantic Models Need Strong Data Engineering Principles](https://dataengineeringlearning.hashnode.dev/why-semantic-models-need-strong-data-engineering-principles) | What I learned about Power BI semantic models and why the data behind a dashboard matters just as much as the visuals. |
 | [📈 Building Marathos Atlas in Databricks](https://dataengineeringlearning.hashnode.dev/marathos-atlas-building-a-data-platform-in-databricks-to-learn-medallion-architecture) | How I built Marathos Atlas to understand Medallion Architecture by actually working through the different data layers. |
 
