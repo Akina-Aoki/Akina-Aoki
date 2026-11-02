@@ -288,9 +288,9 @@
 
 <br>
 
-## 🗺️ My Data Engineering Roadmap
+## 🗺️ My Data Engineering Toolbox
 
-<img width="1448" height="1086" alt="Aira Data Engineering Roadmap" src="https://github.com/user-attachments/assets/b011e4cf-ae57-41a3-b2cf-d08be66403a1" />
+
 
 <br>
 
