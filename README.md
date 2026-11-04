@@ -1,5 +1,4 @@
 <!-- Banner -->
-<h1 align="center">🌙 Hej! こんにちは！ Hello!</h1>
 
 <p align="center">
   <strong>Welcome to my GitHub profile — where I document my Data Engineering journey, projects, and experiments.</strong>
@@ -33,7 +32,7 @@
 
 <div align="center">
 
-### 🚨 CAREER OPPORTUNITY DETECTED 🚨
+### 🚨 READER DETECTED 🚨
 
 <a href="https://akina-aoki.github.io/">
   <img
@@ -44,13 +43,6 @@
 </a>
 
 <br><br>
-
-<sub>
-💾 100% REAL DATA ENGINEER &nbsp;•&nbsp;
-🔥 NO CREDIT CARD REQUIRED &nbsp;•&nbsp;
-🙂 NOT A VIRUS. TRUST ME. &nbsp;•&nbsp;
-👀 RECRUITERS CLICK HERE
-</sub>
 
 </div>
 
