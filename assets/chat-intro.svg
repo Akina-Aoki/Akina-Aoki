@@ -118,20 +118,17 @@
     />
 
     <text x="38" y="86" class="bubbleTextLight">
-      Hi, I'm Aira! I have AI FOMO. The productive kind.
+      I love data because A) facts tend to win arguments (yes, I enjoy a debate)
     </text>
 
     <text x="38" y="111" class="bubbleTextLight">
-      I love data because A) facts tend to win arguments (yes, I enjoy a debate), and
+      B) AI systems and LLMs are basically hungry little machines that needs trustworthy DATA.
     </text>
 
     <text x="38" y="136" class="bubbleTextLight">
-      B) AI systems and LLMs are basically hungry little machines living on water, energy, and DATA.
+      That's why I like being a Data Engineer.
     </text>
 
-    <text x="38" y="161" class="bubbleTextLight">
-      So naturally, I decided to become one of the people who feeds them. Responsibly.
-    </text>
   </g>
 
   <!-- Bubble 2 -->
@@ -194,13 +191,6 @@
     <text x="38" y="370" class="bubbleTextLight">
       Jokes aside, click any of the links below for serious Data Engineering blogs and projects.
     </text>
-
-    <text x="38" y="397" class="bubbleTextLight">
-      It's safe. 🙂
-    </text>
-
-    <text x="38" y="424" class="bubbleTextLight">
-      TRUST ME, BRO.
-    </text>
+    
   </g>
 </svg>
