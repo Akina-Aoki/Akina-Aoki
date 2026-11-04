@@ -1,34 +1,7 @@
 <!-- Banner -->
-
-<p align="center">
-  <strong>Welcome to my GitHub profile — where I document my Data Engineering journey, projects, and experiments.</strong>
-</p>
-
-
-<br>
-
-
-<p align="center">
-  <img src="./assets/chat-intro.svg" alt="Chat intro about Aira" />
-</p>
-
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aira-franco0965/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="https://hashnode.com/@Aira">
-    <img src="https://img.shields.io/badge/Hashnode%20%7C%20Data%20Engineering%20Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode | Data Engineering Blog" />
-  </a>
-</p>
-
 <!-- ========================================================= -->
 <!-- 🚨 DEFINITELY NOT A SUSPICIOUS BUTTON 🚨 -->
 <!-- ========================================================= -->
-
-<br>
 
 <div align="center">
 
@@ -42,9 +15,29 @@
   />
 </a>
 
-<br><br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aira-franco0965/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
+  <a href="https://hashnode.com/@Aira">
+    <img src="https://img.shields.io/badge/Hashnode%20%7C%20Data%20Engineering%20Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode | Data Engineering Blog" />
+  </a>
+</p>
 </div>
+
+<br>
+
+<p align="center">
+  <strong>Welcome to my GitHub profile — where I document my Data Engineering journey, projects, and experiments.</strong>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="./assets/chat-intro.svg" alt="Chat intro about Aira" />
+</p>
+
 
 <br>
 
@@ -91,171 +84,9 @@
 
 <br>
 
-## 💻 My Favorite Tools and Technologies
+## 🗺️ My Data Engineering Toolbox
+![Data Engineering Tech Stack](assets/data_engineering_tech_stack.png)
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/pydantic/E92063" width="48" height="48" alt="Pydantic" />
-      <br>Pydantic
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="Pandas" />
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/duckdb/FFF000" width="48" height="48" alt="DuckDB" />
-      <br>DuckDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-      <br>Supabase
-    </td>
-    <td align="center" width="96">
-      <strong style="font-size: 28px;">BI</strong>
-      <br>Power BI
-    </td>
-    <td align="center" width="96">
-      <strong style="font-size: 28px;">dbt</strong>
-      <br>dbt
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="48" height="48" alt="Snowflake" />
-      <br>Snowflake
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/databricks/FF3621" width="48" height="48" alt="Databricks" />
-      <br>Databricks
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/apachekafka/FFFFFF" width="48" height="48" alt="Kafka" />
-      <br>Kafka
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="48" height="48" alt="Airflow" />
-      <br>Airflow
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <strong style="font-size: 28px;">S3</strong>
-      <br>Amazon S3
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" />
-      <br>Google Cloud
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
-      <br>Azure
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
-      <br>Terraform
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit" />
-      <br>Streamlit
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/grafana/F46800" width="48" height="48" alt="Grafana" />
-      <br>Grafana
-    </td>
-    <td align="center" width="96">
-      <strong style="font-size: 28px;">EV</strong>
-      <br>Evidence
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="48" height="48" alt="Plotly" />
-      <br>Plotly
-    </td>
-    <td align="center" width="96">
-      <strong style="font-size: 28px;">LV</strong>
-      <br>Lovable
-    </td>
-    <td align="center" width="96">
-      <strong style="font-size: 28px;">DW</strong>
-      <br>Data Wrangler
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/mlflow/0194E2" width="48" height="48" alt="MLflow" />
-      <br>MLflow
-    </td>
-    <td align="center" width="96">
-      <strong style="font-size: 28px;">AI</strong>
-      <br>LLMs
-    </td>
-    <td align="center" width="96">
-      <strong style="font-size: 28px;">VDB</strong>
-      <br>Vector DB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/github/FFFFFF" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
-      <br>GitHub Actions
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/pytest/0A9EDC" width="48" height="48" alt="Pytest" />
-      <br>Pytest
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-      <br>Bash
-    </td>
-    <td align="center" width="96">
-      <strong style="font-size: 28px;">ETL</strong>
-      <br>ETL / ELT
-    </td>
-    <td align="center" width="96">
-      <strong style="font-size: 28px;">DWH</strong>
-      <br>Data Warehouse
-    </td>
-    <td align="center" width="96">
-      <strong style="font-size: 28px;">CI</strong>
-      <br>CI / CD
-    </td>
-  </tr>
-</table>
 
 ## 📊 GitHub Analytics
 
@@ -277,11 +108,6 @@
     </td>
   </tr>
 </table>
-
-<br>
-
-## 🗺️ My Data Engineering Toolbox
-
 
 
 <br>
